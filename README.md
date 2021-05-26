@@ -20,10 +20,8 @@ Setting up of the GIFTD module into your online store
 9. Go to «Extensions» > «Redeem with Orders» > «Gift Certificate», then in the status field select the switch to “On” status and press «Save» button.
 
 ===============
-===============
-===============
 Russian Instruction
-===============
+----------------
 
 Требования к CMS
 ----------------
